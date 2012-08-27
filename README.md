@@ -2,4 +2,4 @@
 
 Visual TestRunner for FLOW3 based on VisualPHPUnit.
 
-![screenshot](https://github.com/mneuhaus/TYPO3.Testing/blob/master/Meta/Screenshot.png)
+![screenshot](https://raw.github.com/mneuhaus/TYPO3.Testing/master/Meta/Screenshot.png)
