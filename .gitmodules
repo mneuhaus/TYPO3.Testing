@@ -1,0 +1,3 @@
+[submodule "Resources/Public/PHPUnitGui"]
+	path = Resources/Public/PHPUnitGui
+	url = git@github.com:mneuhaus/PHPUnitGui.git
